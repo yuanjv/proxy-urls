@@ -14,6 +14,7 @@ jobs:
     - name: update subs
       run: |
         curl -s -L https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt | base64 -d | head -n 250 > vless.txt
+        cat vless.txt
     - name: commit
       run: |
         git config --global user.email github-actions-bot@github.com
