@@ -14,14 +14,14 @@ jobs:
     - name: update subs
       run: |
         curl -s -L https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt | base64 -d | head -n 250 > vless.txt
-        
-    - name: Commit and push files
-      uses: EndBug/add-and-commit@v7
+    - name: commit
+      run: |
+        git config --global user.email github-actions-bot@github.com
+        git config --global user.name "github-actions-bot"
+        git add .
+        git commit -am "chore: auto update by github-action"
+    - name: push
+      uses: ad-m/github-push-action@master
       with:
-        author_name: "yuanjv"
-        author_email: "suiyuanjv@gmail.com"
-        message: "update subs"
-        add: "."
-        push: "https://github.com/yuanjv/ray-subs.git"
-    env:
-      GITHUB_TOKEN: ${{ secrets.PAT }}
+        branch: main
+        github_token: ${{ secrets.PAT }}
