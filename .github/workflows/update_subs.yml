@@ -1,0 +1,18 @@
+name: Auto-Update
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Runs hourly
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: update subs
+      run: |
+        
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+        curl -s -L https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt | base64 -d | head -n 250 > vless.txt
+        git add .
+        git commit -m "update subs"
+        git push
