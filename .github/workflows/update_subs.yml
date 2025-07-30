@@ -25,3 +25,13 @@ jobs:
       with:
         branch: main
         github_token: ${{ secrets.PAT }}
+    - name: Commit and push files
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "yuanjv"
+        author_email: "suiyuanjv@gmail.com"
+        message: "update subs"
+        add: "."
+        push: "https://github.com/yuanjv/ray-subs.git"
+    env:
+      GITHUB_TOKEN: ${{ secrets.PAT }}
