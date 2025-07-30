@@ -1,4 +1,6 @@
 name: Auto-Update
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '*/5 * * * *'
