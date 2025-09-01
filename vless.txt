@@ -198,6 +198,7 @@ vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encr
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@Academi_vpn6
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
+vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#کلی کانفیگ خوب تست شده رایگان 🇮🇷 @netv2reyng
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#🇨🇦@FreakConfig
 vless://0130ffc1-4aa9-4fe2-b04e-d4b1d514d328@junikacip.junika.click:45357?mode=gun&security=none&encryption=none&type=grpc#@Selinc
@@ -223,6 +224,8 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&s
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed=2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
 vless://01d4ef99-feb7-414c-b3ce-b327cb0c4eed@138.199.239.38:10138?path=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&security=&encryption=none&type=ws#☁️telegram:@Fast78_channel  متصل تا فردا
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#@HiByeVPNN👈⚡❤️‍🔥
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#@HiByeVPNN👈⚡❤️‍🔥
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#Telegram:@config_proxy 🔥
 vless://01e6edb4-245b-4a3f-8617-c288c5d2a4cc@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46157-2
 vless://01fdc76d-103f-439e-9e16-aa0785c292e8@91.99.18.180:7557?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://01telegram-ID-free_vpn0088@sumibi.org.sumibi.org:11032?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
@@ -245,6 +248,3 @@ vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=n
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&host=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55093?security=none&type=tcp&headerType=none&path=&host=#[🇳🇱] [Tunnel] [1] CodeClubiR-cciv2ray_bot
-vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR-cciv2ray_bot
-vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR-cciv2ray_bot  🇳🇱
-vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] CodeClubiR-cciv2ray_bot
