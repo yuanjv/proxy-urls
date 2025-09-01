@@ -194,7 +194,6 @@ vless://01232cb4-ceab-43c1-f384-09f698db6c19@cumhuriyet.com.tr:80?type=ws&host=j
 vless://012354de-a667-4d19-ae51-76e4808b5a04@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#=@&security=none&encryption=none&host=Li.testi21.ddns-ip.net&type=ws#@icv2ray
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇨🇦]t.me/Raiv2mmr
-vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encryption=none&headerType=none&type=tcp¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Telegram:@config_proxy 🔥
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@Academi_vpn6
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
@@ -243,8 +242,9 @@ vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=/hqqprlws?ed
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@fin-cloud-sabzi0938-168.76.113.65.parkcontrolzip.ir:2082?path=/&security=none&encryption=none&type=ws#@NETMelliAnti
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti : چنل کانفیگ
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&host=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&headerType=none&type=tcp#@meli_proxyy
 vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&host=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55093?security=none&type=tcp&headerType=none&path=&host=#[🇳🇱] [Tunnel] [1] CodeClubiR-cciv2ray_bot
 vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR-cciv2ray_bot
 vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR-cciv2ray_bot  🇳🇱
+vless://0236efb3-4497-4379-b977-eed737aa5883@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] CodeClubiR-cciv2ray_bot
+vless://02483314-2042-451b-b0ab-f9bab9a1be9d@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
