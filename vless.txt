@@ -194,7 +194,6 @@ vless://00faa3f3-479e-4903-d5fb-dc2d4990ed91@FASTSHOVPNTELEGRAM2.vinamarketcente
 vless://00faa3f3-479e-4903-d5fb-dc2d4990ed91@fastshovpntelegram2.vinamarketcenter.ir:80?encryption=none&security=none&type=ws&host=eng.vinamarketcenter.ir&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048#hope of freedom - @anotherme_night
 vless://01232cb4-ceab-43c1-f384-09f698db6c19@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@vipV2rayNGnp
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
@@ -209,7 +208,6 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?path=/&security
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?path=/&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=cf.d3z.net#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY--- /?ed=2560&security=none&encryption=none&host=cf.d3z.net&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.249:8880?path=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN /?ed=2560&security=none&encryption=none&host=cf.d3z.net&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
-vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661?mode=gun&security=reality&encryption=none&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&fp=chrome&type=grpc&sni=osxapps.itunes.apple.com&sid=2519#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661?mode=gun&security=reality&encryption=none&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&fp=chrome&type=grpc&sni=osxapps.itunes.apple.com&sid=2519#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://01860891-2645-420f-a494-a653d960f58d@2.189.117.105:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
@@ -248,3 +246,5 @@ vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.53.11:8880?security=none&enc
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@v2ray313 کانالمون 🤞🏻
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram : @Dropcube
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
