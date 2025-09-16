@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cat /etc/os-release > os_info
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 rm proxy_urls.txt
@@ -43,4 +42,7 @@ rm -r XRAY_KNIFE
 mkdir XRAY_KNIFE
 cd XRAY_KNIFE
 wget https://github.com/lilendian0x00/xray-knife/releases/download/v7.1.3/Xray-knife-linux-64.zip
+unzip Xray-knife-linux-64.zip
+cd ..
+ln -s XRAY_KNIFE/xray-knife xray-knife
 
