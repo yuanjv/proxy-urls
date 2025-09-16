@@ -1,8 +1,9 @@
 #!/bin/bash
 
-rm proxy_urls.txt
+cat /etc/os-release > os_info
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+rm proxy_urls.txt
 
 curl https://raw.githubusercontent.com/HakurouKen/free-node/main/public >> proxy_urls.txt
 
@@ -37,3 +38,7 @@ curl https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads
 curl https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY.txt >> proxy_urls.txt
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+rm -r XRAY_KNIFE
+mkdir XRAY_KNIFE
+
