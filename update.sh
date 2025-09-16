@@ -45,4 +45,4 @@ wget https://github.com/lilendian0x00/xray-knife/releases/download/v7.1.3/Xray-k
 unzip Xray-knife-linux-64.zip
 cd ..
 ln -s XRAY_KNIFE/xray-knife xray-knife
-
+./xray-knife http -f proxy_urls.txt -s -p -o alive_proxy_urls.txt
