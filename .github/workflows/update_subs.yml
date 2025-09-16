@@ -15,7 +15,7 @@ jobs:
       run: |
         rm cur_time*
         touch cur_time:$(date +%s)
-        curl -s -L https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt | base64 -d | grep -v 'xhttp' | grep -v 'httpupgrade' | head -n 250 > vless.txt
+        bash update.sh
     - name: commit
       run: |
         git config --global user.email github-actions-bot@github.com
