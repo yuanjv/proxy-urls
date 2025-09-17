@@ -39,11 +39,12 @@ curl https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 sort proxy_urls.txt | uniq > dupless_proxy_urls.txt
 
-rm -r XRAY_KNIFE
-mkdir XRAY_KNIFE
-cd XRAY_KNIFE
-wget https://github.com/lilendian0x00/xray-knife/releases/download/v7.1.3/Xray-knife-linux-64.zip
-unzip Xray-knife-linux-64.zip
-cd ..
-ln -s XRAY_KNIFE/xray-knife xray-knife
+# rm -r XRAY_KNIFE
+# mkdir XRAY_KNIFE
+# cd XRAY_KNIFE
+# wget https://github.com/lilendian0x00/xray-knife/releases/download/v7.1.3/Xray-knife-linux-64.zip
+# unzip Xray-knife-linux-64.zip
+# cd ..
+# ln -s XRAY_KNIFE/xray-knife xray-knife
+
 ./xray-knife http -f dupless_proxy_urls.txt -s -p -o alive_proxy_urls.txt
