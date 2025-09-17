@@ -4,6 +4,9 @@
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 rm proxy_urls.txt
 
+# REMOVED last update time: 2025-06-29 09:45:01
+# curl https://raw.githubusercontent.com/vxiaov/free_proxies/refs/heads/main/links.txt | head -n 4096 >> proxy_urls.txt
+
 curl https://raw.githubusercontent.com/HakurouKen/free-node/main/public | head -n 4096 >> proxy_urls.txt
 
 curl https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray | base64 -d | head -n 4096 >> proxy_urls.txt
@@ -17,7 +20,7 @@ curl https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free | ba
 curl https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub | base64 -d | head -n 4096 >> proxy_urls.txt
 
 # REMOVED last update time: 2022-10-04 08:00
-#curl https://raw.githubusercontent.com/wrfree/free/main/v2 | base64 -d | head -n 4096 >> proxy_urls.txt
+# curl https://raw.githubusercontent.com/wrfree/free/main/v2 | base64 -d | head -n 4096 >> proxy_urls.txt
 
 curl https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 | base64 -d | head -n 4096 >> proxy_urls.txt
 # curl https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v1 >> proxy_urls.txt
