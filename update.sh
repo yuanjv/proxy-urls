@@ -28,13 +28,15 @@ curl https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 | base64 -d | 
 curl https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt | head -n 4096 >> proxy_urls.txt
 
 curl https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt | head -n 4096 >> proxy_urls.txt
+curl https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt | tail -n 4096 >> proxy_urls.txt
 
 curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/vless.txt | head -n 4096 >> proxy_urls.txt
-curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/vmess.txt | head -n 4096 >> proxy_urls.txt
-curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/trojan.txt | head -n 4096 >> proxy_urls.txt
-curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/ss.txt | head -n 4096 >> proxy_urls.txt
+curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/vmess.txt | head -n 1024 >> proxy_urls.txt
+curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/trojan.txt | head -n 1024 >> proxy_urls.txt
+curl https://raw.githubusercontent.com/gfpcom/free-proxy-list/refs/heads/main/list/ss.txt | head -n 1024 >> proxy_urls.txt
 
 curl https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt | head -n 4096 >> proxy_urls.txt
+curl https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt | tail -n 4096 >> proxy_urls.txt
 
 # format may not work
 curl https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY.txt | head -n 4096 >> proxy_urls.txt
